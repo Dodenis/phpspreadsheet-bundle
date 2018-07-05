@@ -1,6 +1,6 @@
 {
-    "name": "yectep/phpspreadsheet-bundle",
-    "description": "A Symfony bundle to integrate with PHPOffice's PhpSpreadsheet library",
+    "name": "dodenis/phpspreadsheet-bundle",
+    "description": "A Symfony bundle to integrate with PHPOffice's PhpSpreadsheet library. Forked from yectep/phpspreadsheet-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
